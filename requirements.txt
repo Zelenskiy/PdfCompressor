@@ -1,0 +1,8 @@
+Deprecated==1.2.18
+lxml==5.3.2
+packaging==25.0
+pikepdf==9.7.0
+pillow==11.2.1
+PyMuPDF==1.25.5
+PyPDF2==3.0.1
+wrapt==1.17.2
