@@ -138,6 +138,6 @@ def main():
     
     compress_pdf(input_file, output_file, args.size, args.method)
 
+# main.py
 if __name__ == "__main__":
     main()
-    
